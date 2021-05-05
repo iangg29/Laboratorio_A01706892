@@ -1,4 +1,4 @@
-# Convolytion.py
+# Convolution.py
 # Ian García
 # TC1001S.120
 
